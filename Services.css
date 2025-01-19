@@ -1,0 +1,16 @@
+.services-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 20px;
+}
+.services-image img {
+  max-width: 50%;
+  border-radius: 8px;
+}
+.services-text {
+  flex: 1;
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.5;
+}
